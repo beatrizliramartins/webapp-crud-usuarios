@@ -4,4 +4,4 @@ Este é um projeto que implementa um sistema de CRUD (Create, Read, Update, Dele
 
 - **Python:** Linguagem de programação utilizada para implementar a lógica do sistema.
 - **Streamlit:** Biblioteca utilizada para criar a interface de usuário web.
-- **Criptografia de Senhas:** Implementada usando bibliotecas como bcrypt para garantir a segurança das senhas armazenadas.
+- **Criptografia de Senhas:** Implementada usando bibliotecas como werkzeug para garantir a segurança das senhas armazenadas.
